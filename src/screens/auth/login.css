@@ -1,0 +1,30 @@
+.login-page {
+    background-image: linear-gradient(#923CB5, #000000);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+  }
+  
+  .logo {
+    width: 30%;
+  }
+  
+  .login-btn {
+    width: 200px;
+    padding: 15px 0px;
+    text-align: center;
+    background-color: #fefefe;
+    border-radius: 50px;
+    color: #1f1f1f;
+    font-weight: 600;
+    margin-top: 20%;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  

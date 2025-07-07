@@ -1,0 +1,13 @@
+.screen-container{
+
+    width: calc(100% - 100px);
+    height: 100%;
+    background-image: linear-gradient(#923CB5, #000000);
+    background-attachment: fixed;
+    background-size: cover ;
+    border-radius: 30px;
+
+}
+.flex {
+    display: flex;
+  }
